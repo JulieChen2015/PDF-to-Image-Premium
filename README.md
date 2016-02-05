@@ -1,4 +1,4 @@
-# PDF-to-Image-
+# PDF-to-Image-Premium
 PDF to Image Premium is an effective conversion tool that convert adobe PDF documents into best quality images. PDF to Image Premium converts each PDF page into JPEG(.jpg), JPEG2000(.jp2), PNG(.png), TIFF(.tiff), and BMP(.bmp). This Converter can convert many PDF files to images at one time.
 
 Key Features
